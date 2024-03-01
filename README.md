@@ -13,7 +13,14 @@ For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Ejemplo Entrepag: FlutLab - Flutter Online IDE
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Link de referencia, view our [https://flutlab.io/docs](https://docs.flutter.dev/cookbook/navigation/navigation-basics)
 - Join the discussion and conversation on https://flutlab.io/residents
+
+- Reyna Leticia Molina Villela a.21308051280967qcbtis128.edu.mx 
+
+- ![image](https://github.com/MolinaVRL128/p12-entrega-6I/assets/143743724/334a13d7-1e2a-4756-ba38-827cb29b24ce)
+- ![image](https://github.com/MolinaVRL128/p12-entrega-6I/assets/143743724/839c76d9-90c9-4086-8953-a05fd69ef78c)
+
+
