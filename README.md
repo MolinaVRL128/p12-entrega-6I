@@ -15,7 +15,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Ejemplo Entrepag: FlutLab - Flutter Online IDE
 
-- Link de referencia, view our [https://flutlab.io/docs](https://docs.flutter.dev/cookbook/navigation/navigation-basics)
+- Link de referencia, view our https://docs.flutter.dev/cookbook/navigation/navigation-basics
 - Join the discussion and conversation on https://flutlab.io/residents
 
 - Reyna Leticia Molina Villela a.21308051280967qcbtis128.edu.mx 
